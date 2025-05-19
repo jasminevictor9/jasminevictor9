@@ -4,7 +4,7 @@ This is a basic  project showcasing a data entry task. The file contains fiction
 
  Files Included
 
-- `sample_data_entry.xlsx` – An excel sheet showing a structured data entry table.
+ An excel sheet showing a structured data entry table.
 [BILL OF QUANTITY FOR 2 BEDROOM FLAT.xlsx](https://github.com/user-attachments/files/20297810/BILL.OF.QUANTITY.FOR.2.BEDROOM.FLAT.xlsx)
 
 
